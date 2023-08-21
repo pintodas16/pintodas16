@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋 I'm Pinto Das</h1>
 <h2 align='center'>I'm interested in Coding</h2>
 
-- ✉️  How to reach me [pintodas.lu@gmail.com](mailto:pintodas.lu@gmail.com)
+- ✉️ How to reach me [pintodas.lu@gmail.com](mailto:pintodas.lu@gmail.com)
+
+<h3 align="left">Connect with me:</h3>
+<hr/>
+<p align="left">
+<a href="https://www.linkedin.com/in/pinto-das-01425a196/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="Pinto Das" height="48" width="48" />
+</a>
+<a href="https://www.facebook.com/pinto.das.54/" target="blank"><img align="center" src="https://img.icons8.com/color/96/facebook-new.png" alt="Pinto Das" height="48" width="48" />
+</a>
+<a href="https://www.instagram.com/pintodas/" target="blank"><img align="center" src="https://cdnlogo.com/logos/i/32/instagram-icon.svg" alt="Pinto Das" height="40" width="40" />
+</a>
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<hr/>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -19,7 +33,9 @@
 
 </p>
 
-<b>My GitHub Stats</b>
+<P>My GitHub Stats</P>
+<hr>
+<br/>
 
 <a href="http://www.github.com/pintodas16"><img src="https://github-readme-stats.vercel.app/api?username=pintodas16&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pintodas16 GitHub stats" /></a>
 
