@@ -6,11 +6,11 @@
 <h3 align="left">Connect with me:</h3>
 <hr/>
 <p align="left">
-<a href="https://www.linkedin.com/in/pinto-das-01425a196/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="Pinto Das" height="48" width="48" />
+<a href="https://www.linkedin.com/in/pinto-das-01425a196/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="Pinto Das" height="48" width="48" />
 </a>
-<a href="https://www.facebook.com/pinto.das.54/" target="blank"><img align="center" src="https://img.icons8.com/color/96/facebook-new.png" alt="Pinto Das" height="48" width="48" />
+<a href="https://www.facebook.com/pinto.das.54/" target="_blank"><img align="center" src="https://img.icons8.com/color/96/facebook-new.png" alt="Pinto Das" height="48" width="48" />
 </a>
-<a href="https://www.instagram.com/pintodas/" target="blank"><img align="center" src="https://cdnlogo.com/logos/i/32/instagram-icon.svg" alt="Pinto Das" height="40" width="40" />
+<a href="https://www.instagram.com/pintodas/" target="_blank"><img align="center" src="https://cdnlogo.com/logos/i/32/instagram-icon.svg" alt="Pinto Das" height="40" width="40" />
 </a>
 
 </p>
