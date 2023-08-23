@@ -32,8 +32,6 @@
 
 </p>
 
-<h3>My GitHub Stats</h3>
-<hr>
-<br/>
+
 
 
