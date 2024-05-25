@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Pinto Das</h1>
 
-- 👨‍💻 I’m interested in Coding
+- 👨‍💻 I’m interested in Problem Solving & Coding.
 - ✉️ How to reach me [pintodas.lu@gmail.com](mailto:pintodas.lu@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
